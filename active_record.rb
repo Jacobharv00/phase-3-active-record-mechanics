@@ -25,3 +25,5 @@ end
 
 binding.pry
 ""
+
+# ActiveRecord::Base is cool!!!!!!!
